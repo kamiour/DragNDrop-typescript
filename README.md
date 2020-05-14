@@ -1,6 +1,6 @@
-installation:
+Installation:
   npm install;
 
-running:
+Running:
   npm start
   tsc -w
